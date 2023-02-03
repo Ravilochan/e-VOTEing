@@ -1,2 +1,2 @@
 # e-VOTEing
-MIni Project 1
+MIni Project
